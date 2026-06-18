@@ -1,38 +1,22 @@
-header {
-    background-color: #FFFFFF;
-    color: #183C63;
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
-}
+<style>
+            header {
+                background-color: #183C63;
+                color: #FFFFFF;
+                text-align: center;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 16px;
+            }
 
-.artigo-autor {
-    font-weight: bold;
-}
+            main {
+                background-color: #FFFFFF;
+                color: #183C63;
+                display: flex
+                  }
 
-main {
-    background-color: #0931e4;
-    color: #000000;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
-}
-
-article {
-    display: flex;
-    gap: 16px;
-    margin-bottom: 24px;
-}
-
-main img {
-    width: 80px;
-    height: 80px;
-    display: block;
-}
-
-h2,
-p,
-button {
-    margin-bottom: 12px;
-}
+            img {
+                width: 80px;
+                height: 80px;
+            }
+        </style>
+    </header>
