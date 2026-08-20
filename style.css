@@ -57,6 +57,6 @@ button {
     right: 16px;
     font-size: 32px;
     padding: 12px;
-    background-color: var( --cor-primaria);
+    background-color: var(--cor-primaria);
     border-radius: 50%;
 }
